@@ -1,10 +1,10 @@
-# ☕ Coffee Vibes
+# ☕ Coffee Tulips 
 
 E-commerce de café de especialidad desarrollado con **Next.js** (frontend) y **Express + PostgreSQL + Prisma** (backend), con integración de pagos a través de **Mercado Pago**.
 
 ## Sobre el proyecto
 
-Coffee Vibes es una tienda en línea para la venta de café de especialidad, molido, bebidas preparadas y accesorios. Permite a los clientes explorar el catálogo, armar su pedido, elegir entre recojo en tienda o delivery, y pagar de forma segura con Mercado Pago. Incluye además un panel de administración para gestionar productos, categorías y pedidos.
+Coffee Tulips  es una tienda en línea para la venta de café de especialidad, molido, bebidas preparadas y accesorios. Permite a los clientes explorar el catálogo, armar su pedido, elegir entre recojo en tienda o delivery, y pagar de forma segura con Mercado Pago. Incluye además un panel de administración para gestionar productos, categorías y pedidos.
 
 ## Características
 
@@ -52,6 +52,4 @@ npm run dev
 
 El backend corre en `http://localhost:3000` y el frontend en `http://localhost:3001`.
 
-## Autores
 
-Proyecto desarrollado como parte de un trabajo académico/práctico.
