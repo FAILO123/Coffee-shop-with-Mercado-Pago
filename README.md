@@ -1,4 +1,4 @@
-# ☕ Coffee Tulips 
+#  Coffee Tulips 
 
 E-commerce de café de especialidad desarrollado con **Next.js** (frontend) y **Express + PostgreSQL + Prisma** (backend), con integración de pagos a través de **Mercado Pago**.
 
@@ -8,13 +8,13 @@ Coffee Tulips  es una tienda en línea para la venta de café de especialidad, m
 
 ## Características
 
-- 🛍️ Catálogo de productos con filtros por categoría y tipo
-- 🛒 Carrito de compras y checkout completo
-- 📦 Seguimiento de pedidos con estados (pendiente, pagado, en preparación, listo, entregado)
-- 💳 Pago en línea integrado con Mercado Pago (Checkout Pro)
-- 👤 Autenticación de usuarios con roles (cliente, dueño, administrador)
-- 📋 Panel de administración para gestionar productos, categorías y pedidos
-- 📍 Gestión de direcciones de entrega
+-  Catálogo de productos con filtros por categoría y tipo
+-  Carrito de compras y checkout completo
+-  Seguimiento de pedidos con estados (pendiente, pagado, en preparación, listo, entregado)
+-  Pago en línea integrado con Mercado Pago (Checkout Pro)
+-  Autenticación de usuarios con roles (cliente, dueño, administrador)
+-  Panel de administración para gestionar productos, categorías y pedidos
+-  Gestión de direcciones de entrega
 
 ## Stack tecnológico
 
